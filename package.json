@@ -19,7 +19,7 @@
     "mysql2": "^1.6.5",
     "nodemailer": "^6.6.1",
     "nodemailer-sendgrid-transport": "^0.2.0",
-    "pdfkit": "^0.10.0",
+    "pdfkit": "^0.16.0",
     "sequelize": "^6.29.0",
     "stripe": "^7.8.0"
   },
